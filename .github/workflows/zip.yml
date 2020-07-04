@@ -26,7 +26,7 @@ jobs:
       run: rm -rf .git
 
     - name: zip
-      run: zip PoiCraft_2nd.zip .
+      run: zip -r PoiCraft_2nd.zip .
 
     - name: git
       run: |
