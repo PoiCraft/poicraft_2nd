@@ -30,9 +30,9 @@ jobs:
 
     - name: git
       run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
         git init
+        git config --local user.email "2331490629@qq.com"
+        git config --local user.name "gggxbbb"
         git commit -m "Zip" -a
         git remote add origin https://github.com/PoiCraft/poicraft_2nd.git
 
