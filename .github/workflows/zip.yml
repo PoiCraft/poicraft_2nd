@@ -33,7 +33,7 @@ jobs:
         git init
         git config --local user.email "2331490629@qq.com"
         git config --local user.name "gggxbbb"
-        git add PoiCraft二周目.zip
+        git add PoiCraft_2nd.zip
         git commit -m "Zip" -a
         git remote add origin https://github.com/PoiCraft/poicraft_2nd.git
 
